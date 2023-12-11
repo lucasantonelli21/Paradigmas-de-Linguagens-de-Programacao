@@ -1,0 +1,51 @@
+[
+  {
+    "sender": "Lucas",
+    "type": "Deposito",
+    "receiver": "Lucas",
+    "amount": 100.0,
+    "date": "Friday, 29 May 2015 05:50"
+  },
+  {
+    "sender": "Ana Clara",
+    "type": "Deposito",
+    "receiver": "Ana Clara",
+    "amount": 100.0,
+    "date": "Friday, 29 May 2015 05:50"
+  },
+  {
+    "sender": "Lucas",
+    "type": "Deposito",
+    "receiver": "Lucas",
+    "amount": 300.0,
+    "date": "segunda-feira, 11 dezembro 2023"
+  },
+  {
+    "sender": "Ana Clara",
+    "type": "Deposito",
+    "receiver": "Ana Clara",
+    "amount": 30.0,
+    "date": "segunda-feira, 11 dezembro 2023"
+  },
+  {
+    "sender": "Wilson",
+    "type": "Transferencia",
+    "receiver": "Lucas",
+    "amount": 200.0,
+    "date": "segunda-feira, 11 dezembro 2023"
+  },
+  {
+    "sender": "Wilson",
+    "type": "Deposito",
+    "receiver": "Wilson",
+    "amount": 100.0,
+    "date": "segunda-feira, 11 dezembro 2023"
+  },
+  {
+    "sender": "Lucimere",
+    "type": "Deposito",
+    "receiver": "Lucimere",
+    "amount": 1000.0,
+    "date": "segunda-feira, 11 dezembro 2023"
+  }
+]

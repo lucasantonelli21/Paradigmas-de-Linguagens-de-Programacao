@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.AssemblyInfo.cs
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PUC\AED Paradigmas\bin\Debug\net7.0\AED Paradigmas.exe
+C:\Users\lucas\Documents\PUC\AED Paradigmas\bin\Debug\net7.0\AED Paradigmas.deps.json
+C:\Users\lucas\Documents\PUC\AED Paradigmas\bin\Debug\net7.0\AED Paradigmas.runtimeconfig.json
+C:\Users\lucas\Documents\PUC\AED Paradigmas\bin\Debug\net7.0\AED Paradigmas.dll
+C:\Users\lucas\Documents\PUC\AED Paradigmas\bin\Debug\net7.0\AED Paradigmas.pdb
+C:\Users\lucas\Documents\PUC\AED Paradigmas\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.csproj.CopyComplete
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.dll
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\refint\AED Paradigmas.dll
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.pdb
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\AED Paradigmas.genruntimeconfig.cache
+C:\Users\lucas\Documents\PUC\AED Paradigmas\obj\Debug\net7.0\ref\AED Paradigmas.dll

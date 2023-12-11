@@ -1,0 +1,88 @@
+[
+  {
+    "number": 1,
+    "balance": 200.0,
+    "client": {
+      "name": "Lucas",
+      "lastName": "Barbosa Antonelli",
+      "cpf": "035.717.891.21"
+    },
+    "transactions": [
+      {
+        "sender": "Lucas",
+        "type": "Deposito",
+        "receiver": "Lucas",
+        "amount": 100.0,
+        "date": "Friday, 29 May 2015 05:50"
+      },
+      {
+        "sender": "Lucas",
+        "type": "Deposito",
+        "receiver": "Lucas",
+        "amount": 300.0,
+        "date": "segunda-feira, 11 dezembro 2023"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "balance": 130.0,
+    "client": {
+      "name": "Ana Clara",
+      "lastName": "Barbosa Antonelli",
+      "cpf": "111.222.333-44"
+    },
+    "transactions": [
+      {
+        "sender": "Ana Clara",
+        "type": "Deposito",
+        "receiver": "Ana Clara",
+        "amount": 100.0,
+        "date": "Friday, 29 May 2015 05:50"
+      },
+      {
+        "sender": "Ana Clara",
+        "type": "Deposito",
+        "receiver": "Ana Clara",
+        "amount": 30.0,
+        "date": "segunda-feira, 11 dezembro 2023"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "balance": 300.0,
+    "client": {
+      "name": "Wilson",
+      "lastName": "Barbosa da Silva",
+      "cpf": "112.222.333-44"
+    },
+    "transactions": [
+      {
+        "sender": "Wilson",
+        "type": "Deposito",
+        "receiver": "Wilson",
+        "amount": 100.0,
+        "date": "segunda-feira, 11 dezembro 2023"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "balance": 1000.0,
+    "client": {
+      "name": "Lucimere",
+      "lastName": "Antonelli",
+      "cpf": "111.333.222-44"
+    },
+    "transactions": [
+      {
+        "sender": "Lucimere",
+        "type": "Deposito",
+        "receiver": "Lucimere",
+        "amount": 1000.0,
+        "date": "segunda-feira, 11 dezembro 2023"
+      }
+    ]
+  }
+]

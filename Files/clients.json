@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lucas",
+    "lastName": "Barbosa Antonelli",
+    "cpf": "022.231.222.11"
+  },
+  {
+    "name": "Ana Clara",
+    "lastName": "Barbosa Antonelli",
+    "cpf": "111.222.333-44"
+  },
+  {
+    "name": "Wilson",
+    "lastName": "Barbosa da Silva",
+    "cpf": "112.222.333-44"
+  },
+  {
+    "name": "Lucimere",
+    "lastName": "Antonelli",
+    "cpf": "111.333.222-44"
+  }
+]
