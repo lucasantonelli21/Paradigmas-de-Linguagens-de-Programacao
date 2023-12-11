@@ -13,3 +13,5 @@ Olá, meu nome é Lucas e sou um estudante de Ciência da Computação. Este Rep
 
 ## Implementação
 * O objetivo da AED era realizar um trabalho com uma linguagem de computação diferente da acostumada pegando a partir de um Paradigma. Como iniciei na programação pela linguagem C e tenho experiência em Java, optei por C# que é uma linguagem de programação que recentemente resolvi me aventurar em aprender. Utilizei a biblioteca Newtonsoft para serializar e desserializar os objetos em json para realizar o armazenamento das contas, clientes e transações do sistema.
+## Instalação Newtonsoft.Json
+* Utilize o Comando dotnet add package Newtonsoft.Json --version 13.0.3
